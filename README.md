@@ -1,8 +1,9 @@
-# AIML Journey 🚀
+# AIML Journey
 
 This repository documents my daily learning journey in **Python and AI/ML** as I work towards becoming an **AI/ML Engineer**.
 
 I use this repo to:
+
 - Track my daily progress
 - Store practice code
 - Write short notes about what I learn
@@ -10,10 +11,11 @@ I use this repo to:
 
 ---
 
-## 📌 What this repository contains
+## What this repository contains
 
 - **Daily folders (Day-01, Day-02, …)**  
   Each folder includes:
+
   - `notes.md` → what I learned, practiced, and found confusing
   - `code.py` → Python code written that day
 
@@ -22,6 +24,7 @@ I use this repo to:
 ---
 
 ## 🛠 Current Focus
+
 - Python fundamentals
 - Logic building
 - Data structures
@@ -31,14 +34,16 @@ I use this repo to:
 
 ---
 
-## 🎯 Goal
+## Goal
+
 To become a **skilled AI/ML Engineer** with strong fundamentals, real projects, and consistent daily practice.
 
 ---
 
-## 📅 Started On
-7/01/2026
----
+## Started On
 
-## 📈 Note
+## 7/01/2026
+
+## Note
+
 This repository reflects my **learning process**, so the code may improve and evolve over time.
